@@ -2,6 +2,7 @@
 [My GitHub](https://github.com/MUVALA1)
 
 ##Education
+
 |**schools**|**year**|
 ------------|---------
 Makerere University|*2019*
