@@ -1,20 +1,20 @@
-#KAGAMBO DOUGLAS
+# KAGAMBO DOUGLAS
 [My GitHub](https://github.com/MUVALA1)
 
-##Education
+## Education
 
 |**schools**|**year**|
 ------------|---------
 Makerere University|*2019*
 St Mary's College Kisubi|*2016*
 
-##Emojis
+## Emojis
 * :blush:
 * :smirk:
 * :satisfied:
 * :smiley:
 
-##Favourite Quote
+## Favourite Quote
 >Disability is not inability
 
 
